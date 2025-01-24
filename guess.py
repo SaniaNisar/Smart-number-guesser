@@ -4,8 +4,8 @@ import random
 class NumberGuesserApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Number Guesser - Computer Guesses Your Number")
-        self.root.geometry("400x400")
+        self.root.title("Number Guesser")
+        self.root.geometry("500x500")
         self.root.resizable(False, False)
         self.initialize_ui()
         self.reset_game()
