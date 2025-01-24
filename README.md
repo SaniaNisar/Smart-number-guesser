@@ -1,10 +1,8 @@
 # Smart Number Guesser
 
-## **Overview**
-
 **Smart Number Guesser** is an interactive Python-based game where the computer guesses the number you're thinking of within a defined range. It uses a graphical user interface (GUI) built with **Tkinter** to create a seamless and engaging experience.
 
----
+
 
 ## **How It Works**
 
@@ -17,7 +15,7 @@
    - **Correct**: If the computer guesses your number.
 5. Enjoy the game's responsiveness and intelligence.
 
----
+
 
 ## **Technologies Used**
 
